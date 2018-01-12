@@ -1,0 +1,37 @@
+*{padding:0; margin: 0;}
+
+#wrapp{
+	max-width:800px;
+	height: ;
+	margin:auto;
+	
+
+	border:10px solid rgb(66, 244, 149);
+	border-radius: 5px;
+}
+#current{width: 80%;
+	max-height:500px;
+	margin: 10px 20px;
+
+	border:3px solid gray;
+	border-radius: 2px;
+	
+	box-shadow: 5px 5px 5px gray;
+}
+
+.piko{
+	width:50px;
+	height:50px;
+	border:1px solid gray;
+	border-radius: 1px;
+	margin:10px 20px;
+	
+	
+}
+h1{
+	text-align: center;
+	color:rgb(66, 244, 149);
+	font-weight: 1000;
+	
+}
+
